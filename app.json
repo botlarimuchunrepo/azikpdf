@@ -10,7 +10,7 @@
         "NacBots"
     ],
     "website": "https://t.me/NacBots",
-    "repository": "https://github.com/nacbots/BroadcastBot",
+    "repository": "https://github.com/botlarimuchunrepo/azikpdf",
     "success_url": "https://github.com/nacbots",
     "env": {
         "BOT_TOKEN": {
