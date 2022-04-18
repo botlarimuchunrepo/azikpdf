@@ -17,6 +17,14 @@
             "description": "You Telegram Bot Token from @BotFather",
             "required": true
         },
+        "API_TOKEN": {
+			"description": "API_TOKEN from @botfather",
+			"required": true
+		},
+        "CONVERT_API": {
+			"description": "ConvertAPI secret token",
+			"required": false
+		},
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
             "required": true
@@ -30,6 +38,14 @@
             "value": "True",
             "required": false
         },
+        "OWNER_ID": {
+			"description": "No Use Yet.. :/",
+			"required": false
+		},
+		"BANNED_USER": {
+			"description": "No Use Yet.. :/",
+			"required": false
+		},
         "DB_URL": {
             "description": "MongoDB.com database url",
             "required": true
